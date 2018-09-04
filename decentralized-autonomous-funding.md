@@ -216,7 +216,7 @@ Some other considerations that have gone into Politeia’s design:
 
 ### Treasury Problems and Solutions
 
-#### Resistance to being ripped off
+#### Payment up front or in arrears
 
 Project treasury type funds are interesting in that they don’t belong to anyone in particular but are instead created to serve some purpose — it can look a bit like “free money”, and attract scammers who try to obtain it.
 
