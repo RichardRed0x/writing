@@ -180,7 +180,7 @@ As this is written with Decred and Politeia in mind, it is worth briefly describ
 
 Decred’s treasury governance is for now an entirely off-chain affair. The portion of Decred’s governance that is on-chain relates to validating the work of miners and changing the consensus rules.
 
-Ten per cent of Decred’s block reward goes into a [treasury wallet](https://explorer.dcrdata.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx). So far, that wallet is administered by the Decred Holdings Group. That will continue to be the case for some time, in Politeia’s first incarnation it will effectively be about making signal votes that tell the human operators of that wallet what to do with it.
+Ten per cent of Decred’s block reward goes into a [treasury address](https://explorer.dcrdata.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx). So far, that wallet is administered by the Decred Holdings Group. That will continue to be the case for some time, in Politeia’s first incarnation it will effectively be about making signal votes that tell the human operators of that wallet what to do with it.
 
 Treasury funds sit in a wallet with no special rules about when they must be spent, unlike Dash’s “spend it or burn it” superblocks. Decred’s treasury has savings.
 
@@ -200,11 +200,11 @@ When Politeia launches for real, there will be a mechanism for formalizing, refi
 
 Although the data for Politeia is stored off-chain (to conserve block space), it is anchored to the Decred blockchain in a couple of ways:
 
-- [dcrtime](https://github.com/decred/dcrtime) is used to make proposals “**censor-proof**” — users can prove when they have been censored, and what has been censored. Politeia content is hashed and embedded in the Decred blockchain.
+- [dcrtime](https://github.com/decred/dcrtime) is used to make proposals “**censor-proof**” — users can prove when they have been censored, and what has been censored. Politeia content is hashed and the hash is embedded in the Decred blockchain.
   Politeia users have cryptographic public/private key pairs, they receive censorship tokens when submitting proposals and can use these to demonstrate that a specific proposal was submitted before a specific time/block.
 - **Snap votes** are used to approve or reject proposals, when voting opens for a proposal every **ticket** that was live in that block can signal a Yes or No vote for that proposal within the voting window (default 1 week). Voting happens from within a wallet that holds live tickets.
 
-Doing treasury governance off-chain allows Decred to take a more iterative and agile approach to figuring out how it should work. The plan is for significant parts of it to move on-chain over time as they mature.
+Doing treasury governance off-chain allows Decred to take a more iterative and agile approach to figuring out how it should work.
 
 Some other considerations that have gone into Politeia’s design:
 
