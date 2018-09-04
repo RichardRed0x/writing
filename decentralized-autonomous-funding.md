@@ -1,6 +1,6 @@
 # Decentralized autonomous funding of blockchain projects
 
-This post considers the funding of blockchain projects through treasuries owned and operated by stakeholders. Specifically, it re-visits the Dash Treasury DAO and its support services, and considers what Decred can learn from this example ahead of the upcoming launch of [Politeia](https://docs.decred.org/governance/politeia/). It also sets out some broad differences between the approaches of Dash and Decred, and considers how autonomous funding fits with commons based peer production.
+This post considers the funding of blockchain projects through treasuries owned and operated by stakeholders. Specifically, it re-visits the Dash Treasury DAO and its support services, and considers what Decred can learn from this example ahead of the upcoming launch of [Politeia](https://docs.decred.org/governance/politeia/). It also sets out some broad differences between the approaches of Dash and Decred, and considers how autonomous funding fits with [commons based peer production](https://en.wikipedia.org/wiki/Commons-based_peer_production).
 
 #### Table of Contents
 
@@ -19,7 +19,7 @@ For readers who are familiar with, or uninterested in, Dash’s Treasury, I woul
 
 ### How are cryptocurrency projects funded?
 
-Projects with autonomous funding are in the minority, before diving into those it is worth considering how funding works in the space more generally, and the challenges of its effective allocation.
+Projects with autonomous funding are in the minority, before diving into those it is worth considering how funding works in the cryptocurrency space more generally, and the challenges of its effective allocation.
 
 The following categories capture the broad strokes:
 
@@ -40,6 +40,7 @@ Here’s one framing of (some of) those questions/challenges:
 - How can the budget be most effectively deployed to these ends? Who receives payments and when/how/why? How does the treasury get good value for money and avoid being ripped off.
 - Although changing consensus rules is a separate issue, it is closely related to funding of the work required to implement a change to the consensus rules.
 - Besides questions of treasury spending, what else should the project’s decentralized autonomous decision-making apparatus be used for? Conventional organizations consist of much more than a series of financial transactions, how much of that does a decentralized organization need to replicate or emulate? Should it be setting policies, hiring and firing staff, approving name changes?
+- Who should have voting rights? How should votes be tallied or weighted?
 - How can the expertise and time of decision-makers be best utilized? Different participants will have different backgrounds and expertise, more or less able to make informed judgments in different domains. Participants will have varying amounts of time to spend voting, too many proposals to review and vote on may result in voter fatigue and apathy. This is a general problem with any form of direct democracy.
 - The system also needs to be robust against attempts to abuse it by bad actors.
 
@@ -64,7 +65,7 @@ The social spaces occupied by the Dash community are part of its treasury govern
 
 The following support services are specific to the treasury, the ones in bold are quite new and will be described below.
 
-- [Dash Central](https://www.dashcentral.org/) — I described it in my previous post so won’t go into any detail here. It facilitates creating Proposals, and displays all existing Proposals along with their meta-data, a description field, and a space for comments
+- [Dash Central](https://www.dashcentral.org/) — I described it in my [previous post](https://github.com/RichardRed0x/writing/blob/master/dash-treasury-dao.md) so won’t go into any detail here. It facilitates creating Proposals, and displays all existing Proposals along with their meta-data, a description field, and a space for comments
 - [Dash Vote Tracker](https://dashvotetracker.com/past.php) - Lists proposals and votes, links to Dash Central proposals
 - [Dash Nexus](https://www.dashcentral.org/p/dashnexus-strv) — Not completed yet, but has been funded to develop a new primary platform for the treasury
 - [Dash Ninja ](https://www.dashninja.pl/)— Monitors MasterNodes, also has proposal and voting information
