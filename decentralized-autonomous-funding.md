@@ -234,8 +234,6 @@ When payments are made up-front it is important that the treasury trusts the rec
 
 Payment in arrears shifts some of that trust onto the entity or mechanism for deciding when payment has been earned. If the entity that approves payment is trusted, this mitigates some of the risk associated with proposals from unknown proposers.
 
-Disentangling the proposed work from the trustworthiness of the people who proposed it, to whatever degree that is possible, seems like a good move to me. At the least it should provide a better signal about what kinds of work the voters want to fund.
-
 #### Setting a strategy
 
 One weakness of Dash’s Treasury is that it struggles to allow the MNOs to tell the world of potential proposers what they want to fund. It is structured around accepting or rejecting whatever proposals are presented as complete packages.
