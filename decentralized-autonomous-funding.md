@@ -4,7 +4,7 @@ This post considers the funding of blockchain projects through treasuries owned 
 
 #### Table of Contents
 
-- [How are cryptocurrency projects funded?]()
+- [How are cryptocurrency projects funded?](#how-are-cryptocurrency-projects-funded)
 - [Dash]()
 - [Dash Treasury support services]()
 - [Proposal assessment or due diligence]()
