@@ -246,6 +246,20 @@ These proposals do happen, and I described some in my last post about Dash. Poli
 
 I think it’s fair to say that the 5 Dash fee limits the degree to which proposals can be used by people outside the core group to try and amend the course the project is taking.
 
+#### Spam resistance
+
+A fee of 5 Dash sets quite a high barrier for all potential proposal submitters, for six months out of the last year it has been worth USD $2,000 or more. This excludes many potential proposal submitters, and biases the system towards a smaller number of bigger-budget proposals. 
+
+The stated reason for the fee is to prevent spam, and it does quite a good job of this. The on-chain footprint of proposals might introduce a need to limit their number, but this decision also relates to the MNOs capacity to assess and vote on proposals. 
+Decred also adopts a fee for submitting proposals but sets this much lower, at around $10. A team of administrators will review incoming proposals and censor those which violate a set of rules, so that proposals that are approved for public display do not break any laws and meet some minimum threshold.
+
+Spam can come in forms other than proposals though. Any open community platform that facilitates a project's governance well is likely to be subjected to spam and sybil style attacks. These may be just about denial of service, or they may attempt to spoof community support for some perspective or course of action.
+
+If I recall correctly based on discussions with some Dash community members, Dash Central is no longer open for anyone to create an account and participate in discussions of proposals, because this was abused. I believe new accounts are limited to MNOs now.
+
+Decred's Politeia is looking for a balance between openness of participation and cost to sybil attack. A fee of less than $10 for creating an account sets quite a low barrier to participation, but increases the cost of a sock-puppet army significantly.
+Politeia will also record the history of accounts' contributions in some detail and up/down voting on comments will be a matter of public record. Transparency is another way to limit the influence an entity can have by controlling multiple accounts.
+
 #### Proposals and/or people
 
 Dash Treasury proposals bundle the work and the people who will complete it together tightly, but this may not always be the best approach. It is possible to address the following questions separately:
