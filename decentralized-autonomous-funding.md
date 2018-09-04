@@ -65,6 +65,7 @@ The social spaces occupied by the Dash community are part of its treasury govern
 The following support services are specific to the treasury, the ones in bold are quite new and will be described below.
 
 - [Dash Central](https://www.dashcentral.org/) — I described it in my previous post so won’t go into any detail here. It facilitates creating Proposals, and displays all existing Proposals along with their meta-data, a description field, and a space for comments
+- [Dash Vote Tracker](https://dashvotetracker.com/past.php) - Lists proposals and votes, links to Dash Central proposals
 - [Dash Nexus](https://www.dashcentral.org/p/dashnexus-strv) — Not completed yet, but has been funded to develop a new primary platform for the treasury
 - [Dash Ninja ](https://www.dashninja.pl/)— Monitors MasterNodes, also has proposal and voting information
 - [Dash Intel](https://dashintel.org/)— Treasury monitoring data and analytics
