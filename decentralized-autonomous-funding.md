@@ -122,15 +122,15 @@ This kind of dynamic crops up repeatedly. There are many decisions to be made wh
 
 #### Dash Boost
 
-Dash Boost is a solution to another manifestation of this problem of MNO attention. The Dash Treasury is not equipped to handle a large number of proposals, because MNOs do not have the capacity to review a large number of proposals. The 5 Dash proposal fee limits the total number of proposals and effectively excludes small budget proposals.
+Dash Boost (DB) is a solution to another manifestation of this problem of MNO attention. The Dash Treasury is not equipped to handle a large number of proposals, because MNOs do not have the capacity to review a large number of proposals. The 5 Dash proposal fee limits the total number of proposals and effectively excludes small budget proposals.
 
-Dash Boost aims to solve this with a “micro-treasury”, where proposal fees are lower (although still 1 Dash) and budgets are limited to 15 Dash. Decisions about what proposals to fund are made by coin-voting, users can sign up with Dash Boost and associate an address with their account, then vote with the weight of their available Dash.
+DB aims to solve this with a “micro-treasury”, where proposal fees are lower (although still 1 Dash) and budgets are limited to 15 Dash. Decisions about what proposals to fund are made by coin-voting, users can sign up with DB and associate an address with their account, then vote with the weight of their available Dash.
 
-According to the [original proposal](https://www.dashcentral.org/p/gc-dash-boost), successful Dash Boost proposals would be funded by surplus funds in the “GreenCandle escrow services wallets” — GreenCandle is a user who provides escrow services to proposals, sometimes they don’t claim all the Dash GreenCandle was holding for them.
+According to the [original proposal](https://www.dashcentral.org/p/gc-dash-boost), successful DB proposals would be funded by surplus funds in the “GreenCandle escrow services wallets” — GreenCandle is a user who provides escrow services to proposals, sometimes they don’t claim all the Dash GreenCandle was holding for them.
 
-Dash Boost itself would be maintained by collecting the proposal fees of micro-proposals.
+DB itself would be maintained by collecting the proposal fees of micro-proposals.
 
-Dash Boost follows some of the principles of the Treasury, but is a centralized service provided by GreenCandle, who makes payouts to successful micro-proposals directly.
+DB follows some of the principles of the Treasury, but is a centralized service provided by GreenCandle, who makes payouts to successful micro-proposals directly.
 
 As of August 2018, there are 226 users registered with DB. There have been 62 proposals, 22 funded. Many of the funded proposals are for small amounts (e.g. 0.25 Dash, for proposals like “[Tip the Venezuelan kiosk lady](https://www.dashboost.org/proposals/view/22/Tip the Venezuelan kiosk lady (or: 1 less Lambo for TroyDash))”).
 
