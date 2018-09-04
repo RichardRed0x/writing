@@ -10,7 +10,7 @@ This post considers the funding of blockchain projects through treasuries owned 
 - [Proposal assessment or due diligence](#proposal-assessment-or-due-diligence)
 - [Decred](#decred)
 - [Treasury Problems and Solutions](#treasury-problems-and-solutions)
-- [Proposals and/or people](#proposals-and-or-people)
+- [Proposals and/or people](#proposals-andor-people)
 - [Funding fit for commons-based peer production](#funding-fit-for-commons-based-peer-production)
 - [Decred’s consensus](#decreds-consensus)
 - [What does this mean for Politeia?](#what-does-this-mean-for-politeia)
