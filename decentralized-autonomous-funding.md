@@ -10,12 +10,12 @@ This post considers the funding of blockchain projects through treasuries owned 
 - [Proposal assessment or due diligence](#proposal-assessment-or-due-diligence)
 - [Decred](#decred)
 - [Treasury Problems and Solutions](#treasury-problems-and-solutions)
-- [Proposals and/or people]()
-- [Funding fit for commons-based peer production]()
-- [Decred’s consensus]()
-- [What does this mean for Politeia?]()
+- [Proposals and/or people](#proposals-and-or-people)
+- [Funding fit for commons-based peer production](#funding-fit-for-commons-based-peer-production)
+- [Decred’s consensus](#decreds-consensus)
+- [What does this mean for Politeia?](#what-does-this-mean-for-politeia)
 
-For readers who are familiar with, or uninterested in, Dash’s Treasury, I would suggest skipping ahead to the sections on [Decred]() or [Treasury Problems and Solutions]().
+For readers who are familiar with, or uninterested in, Dash’s Treasury, I would suggest skipping ahead to the sections on [Decred](#decred) or [Treasury Problems and Solutions](#treasury-problems-and-solutions).
 
 ### How are cryptocurrency projects funded?
 
