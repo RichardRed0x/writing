@@ -45,7 +45,7 @@ Here’s one framing of (some of) those questions/challenges:
 
 ### Dash
 
-For the purposes of this post it is sufficient to state that Dash’s treasury governance happens on-chain, it is proposal-based and every month the MNOs vote to decide how that month’s superblock Dash will be distributed. Each proposal has a wallet address, the protocol makes transactions sending the requested Dash to the addresses of winning proposals in the superblock. Any Dash not sent to winning proposal wallets is burned.
+For the purposes of this post it is sufficient to state that Dash’s treasury governance happens on-chain, it is proposal-based and every month the MasterNode Operators (MNOs) vote to decide how that month’s superblock Dash will be distributed. Each proposal has a wallet address, the protocol makes transactions sending the requested Dash to the addresses of winning proposals in the superblock. Any Dash not sent to winning proposal wallets is burned.
 
 It is worth noting that the Dash DAO funds a centralized company, the Dash Core group. MNOs have the power to de-fund the Core group, but Core usually gets the Dash it requests from the treasury. I’m not aware of any successful proposals that have interfered with the approach of the Dash Core group in any meaningful way. As of August 2018, [Dash Core has 70 paid team members, and a burn rate of $452k per month](https://www.dash.org/forum/threads/proposal-core-team-compensation-august.39328/).
 
