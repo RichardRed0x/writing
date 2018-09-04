@@ -177,7 +177,7 @@ Funding the work that goes into these reviews would be quite worthwhile, if it c
 
 As this is written with Decred and Politeia in mind, it is worth briefly describing how Decred’s approach contrasts with Dash’s.
 
-![test-propsals.decred.org](images/Politeia.PNG)
+![Taken from latest iteration of test-proposals.decred.org, "Read More" page - September 4th 2018](images/Politeia.PNG)
 
 Decred’s treasury governance is for now an entirely off-chain affair. The portion of Decred’s governance that is on-chain relates to validating the work of miners and changing the consensus rules.
 
