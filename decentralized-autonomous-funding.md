@@ -82,7 +82,7 @@ I am a big fan of Dash Watch, I think it’s one of the best projects the Dash T
 
 Dash Watch is not well integrated with other governance platforms. When looking at proposals on Dash Central, there is no way to follow a link to the information relevant to that proposal on Dash Watch, I couldn’t find a better way of getting there except using the dodgy search.
 
-![Dash Watch proposal view ](/images/DashWatch proposal open.PNG)
+![Dash Watch proposal view ](images/DashWatch proposal open.PNG)
 
 Much of the information collected and presented about proposals is very good, it includes:
 
@@ -176,7 +176,7 @@ Funding the work that goes into these reviews would be quite worthwhile, if it c
 
 As this is written with Decred and Politeia in mind, it is worth briefly describing how Decred’s approach contrasts with Dash’s.
 
-![test-propsals.decred.org](/images/Politeia.PNG)
+![test-propsals.decred.org](images/Politeia.PNG)
 
 Decred’s treasury governance is for now an entirely off-chain affair. The portion of Decred’s governance that is on-chain relates to validating the work of miners and changing the consensus rules.
 
